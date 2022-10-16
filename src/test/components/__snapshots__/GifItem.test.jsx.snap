@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`segunda prueba sobre <GifItem ></GifItem> probando el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="imagen"
+      src="https://media3.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif?cid=c6f82f11cvpt7ikruu8ygixmporcfncou0su74bp9llp2u3k&amp;rid=giphy.gif&amp;ct=g"
+    />
+    <p>
+      hola
+    </p>
+    <button>
+      Eliminar
+    </button>
+  </div>
+</div>
+`;
