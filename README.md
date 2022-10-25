@@ -8,4 +8,4 @@ Hacer un npm i y una vez abierto el tu navegador favorito buscar tu gif
 
 # Tecnologías utilizadas
 
-React y Bootstrap y la implementación de helpers para la modularización de funcionalidades.
+React y Bootstrap,React testing library y la implementación de custom Hooks para la modularización de funcionalidades.
